@@ -11,7 +11,7 @@
 
 **Paste any article. Get a trust score, 5-signal radar breakdown, and phrase-level LIME highlights — instantly.**
 
-[Live Demo](#) · [Report Bug](https://github.com/swapnil-hazra/TruthLens/issues) · [Request Feature](https://github.com/swapnil-hazra/TruthLens/issues)
+[Live Demo](https://truthlens-b94mdhrr5aivpntlnzpju6.streamlit.app/) · [Report Bug](https://github.com/swapnil-hazra/TruthLens/issues) · [Request Feature](https://github.com/swapnil-hazra/TruthLens/issues)
 
 </div>
 
